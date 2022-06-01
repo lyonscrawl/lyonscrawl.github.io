@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.c3c7f51f.chunk.css",
-    "main.js": "/static/js/main.07295275.chunk.js",
-    "main.js.map": "/static/js/main.07295275.chunk.js.map",
+    "main.css": "/static/css/main.54adb047.chunk.css",
+    "main.js": "/static/js/main.7b2f0e60.chunk.js",
+    "main.js.map": "/static/js/main.7b2f0e60.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.9f54618c.js",
     "runtime-main.js.map": "/static/js/runtime-main.9f54618c.js.map",
-    "static/js/2.658366c9.chunk.js": "/static/js/2.658366c9.chunk.js",
-    "static/js/2.658366c9.chunk.js.map": "/static/js/2.658366c9.chunk.js.map",
+    "static/js/2.3c14a21b.chunk.js": "/static/js/2.3c14a21b.chunk.js",
+    "static/js/2.3c14a21b.chunk.js.map": "/static/js/2.3c14a21b.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.aa1414453131ed841b2b4dc63d6b2513.js": "/precache-manifest.aa1414453131ed841b2b4dc63d6b2513.js",
+    "precache-manifest.ecbbf331169d643df69156963ef80d7c.js": "/precache-manifest.ecbbf331169d643df69156963ef80d7c.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.c3c7f51f.chunk.css.map": "/static/css/main.c3c7f51f.chunk.css.map",
-    "static/js/2.658366c9.chunk.js.LICENSE.txt": "/static/js/2.658366c9.chunk.js.LICENSE.txt",
+    "static/css/main.54adb047.chunk.css.map": "/static/css/main.54adb047.chunk.css.map",
+    "static/js/2.3c14a21b.chunk.js.LICENSE.txt": "/static/js/2.3c14a21b.chunk.js.LICENSE.txt",
     "static/media/1.JPG": "/static/media/1.3d47e025.JPG",
     "static/media/index.css": "/static/media/SFMono-RegularItalic.8eddf7ad.ttf",
     "static/media/aircraft_conflict_resolving.png": "/static/media/aircraft_conflict_resolving.cbea24fa.png",
@@ -23,12 +23,14 @@
     "static/media/huawei.png": "/static/media/huawei.782ea6fc.png",
     "static/media/inphb.png": "/static/media/inphb.1d018974.png",
     "static/media/npg.png": "/static/media/npg.1f796bf4.png",
-    "static/media/tgm.png": "/static/media/tgm.8d09306c.png"
+    "static/media/portfolio.png": "/static/media/portfolio.33429ede.png",
+    "static/media/tgm.png": "/static/media/tgm.8d09306c.png",
+    "static/media/ubc.jpg": "/static/media/ubc.11541d23.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.9f54618c.js",
-    "static/js/2.658366c9.chunk.js",
-    "static/css/main.c3c7f51f.chunk.css",
-    "static/js/main.07295275.chunk.js"
+    "static/js/2.3c14a21b.chunk.js",
+    "static/css/main.54adb047.chunk.css",
+    "static/js/main.7b2f0e60.chunk.js"
   ]
 }
