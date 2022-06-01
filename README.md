@@ -1,6 +1,6 @@
 # A clean personal portfolio
 
-Live : [lyonscrawl.github.io](https://lyonscrawl.github.io))
+Live : [lyonscrawl.github.io](https://lyonscrawl.github.io)
 
 ![lyonscrawl.github.io](/portfolio.png)
 
